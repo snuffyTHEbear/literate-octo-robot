@@ -45,4 +45,11 @@
 "I'm so happy, I could just tear out your intestines and strangle you with them." - "The Elder Scrolls IV: Shivering Isles:Sheogorath"
 "The Isles, the Isles. A wonderful place! Except when it's horrible. Then it's horribly wonderful." - "The Elder Scrolls IV: Shivering Isles:Sheogorath"
 "I once dug a pit and filled it with clouds... or was it clowns... well, whichever it was, it began to smell... Ahah! must have been clowns." - "The Elder Scrolls IV: Shivering Isles:Sheogorath"
+"I learned very early the difference between knowing the name of something and knowing something." - "Surely You're Joking, Mr. Feynman!:Richard Feynman"
+"I would rather have questions that can’t be answered than answers that can’t be questioned." - "The Pleasure of Finding Things Out:Richard Feynman"
+"Physics is like sex: sure, it may give some practical results, but that’s not why we do it." - "Interview with Richard Feynman:Richard Feynman"
+"Science is the belief in the ignorance of experts." - "The Pleasure of Finding Things Out:Richard Feynman"
+"What I cannot create, I do not understand." - "Feynman's Blackboards at Caltech:Richard Feynman"
+"Reality must take precedence over public relations, for nature cannot be fooled." - "Rogers Commission Report (Challenger Disaster):Richard Feynman"
+"If you think you understand quantum mechanics, you don’t understand quantum mechanics." - "Quantum Mechanics Lecture:Richard Feynman"
 
