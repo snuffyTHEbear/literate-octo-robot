@@ -30,3 +30,8 @@
 "It’s dangerous to go alone! Take this." - "The Legend of Zelda A Link to the Past"
 "Another settlement needs our help." - "Fallout 4"
 "Let me guess… someone stole your sweetroll?" - "Skyrim"
+"Stop right there, criminal scum!" - "Oblivion"
+"May the Eight guide you, friend." - "Oblivion"
+"You’ll pay for that… in cheese!" - "Oblivion: SI"
+"By the Nine! Is that a butterfly? Those hideous little things give me the creeps." - "Oblivion: SI"
+"Everything is wonderful here, but sooner or later the madness will find you." - "Oblivion: SI"
